@@ -1,9 +1,13 @@
 import React from 'react';
 import Link from "next/link";
+import Head from "next/head";
 
-const FristPost = () => {
+const FirstPost = () => {
     return(
         <React.Fragment>
+            <Head>
+                <title>First post</title>
+            </Head>
             <h1>First Post</h1>
             <h2>
                 <Link href="/">
@@ -14,4 +18,4 @@ const FristPost = () => {
     )
 }
 
-export default FristPost;
+export default FirstPost;
