@@ -2,22 +2,13 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="d095a0c4-0dbc-4e86-9be6-0e1f571d2cfe" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/components/layout.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/components/layout.module.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pages/_app.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/images/profile.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/styles/global.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/styles/utils.module.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/posts.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/posts/pre-rendering.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/posts/ssg-ssr.md" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/lib/posts.js" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/package-lock.json" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/pages/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/pages/index.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pages/posts/first-post.js" beforeDir="false" afterPath="$PROJECT_DIR$/pages/posts/first-post.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pages/posts/pre-rendering.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/pages/posts/ssg-ssr.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/vercel.svg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/yarn.lock" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -53,6 +44,12 @@
     <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
     <property name="vue.rearranger.settings.migration" value="true" />
   </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/posts" />
+      <recent name="$PROJECT_DIR$/pages/posts" />
+    </key>
+  </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
@@ -63,7 +60,7 @@
       <updated>1608799754584</updated>
       <workItem from="1608799758335" duration="1976000" />
       <workItem from="1608805055381" duration="58000" />
-      <workItem from="1608805126859" duration="4114000" />
+      <workItem from="1608805126859" duration="5650000" />
     </task>
     <servers />
   </component>
